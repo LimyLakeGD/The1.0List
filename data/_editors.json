@@ -6,22 +6,26 @@
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "no one",
+        "link": "https://t1-0l.limylakegd.workers.dev/#/"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "no one",
+        "link": "https://t1-0l.limylakegd.workers.dev/#/"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "no one",
+        "link": "https://t1-0l.limylakegd.workers.dev/#/"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "LimyLake",
+        "link": "https://www.youtube.com/@LimyLake"
+    },
+    {
+        "role": "dev"
+        "name": "Prometheus"
         "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
 ]
