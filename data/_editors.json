@@ -1,22 +1,22 @@
 [
     {
         "role": "owner",
-        "name": "LimyLake",
+        "name": "[OWNER] LimyLake",
         "link": "https://www.youtube.com/@LimyLake"
     },
     {
         "role": "admin",
-        "name": "Eagle",
+        "name": "[ADMIN] Eagle",
         "link": "https://www.youtube.com/channel/UChYVi0E3Ifut3tNFXgo9bSw"
     },
     {
         "role": "helper",
-        "name": "no one",
+        "name": "[LIST PLACER] no one",
         "link": "https://t1-0l.limylakegd.workers.dev/#/"
     },
     {
         "role": "trial",
-        "name": "mwagma",
+        "name": "[TRIAL LIST PLACER] mwagma",
         "link": "https://www.youtube.com/@spicymagma9292"
     },
     {
