@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Unknown",
     "records": [
+        {
+            "user": "LimyLake"
+            "link": "https://www.youtube.com/watch?v=mRhuZTZ3PiM"
+            "percent": 200
+            "hz": 60
+        }
     ]
 }
