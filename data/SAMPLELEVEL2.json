@@ -1,24 +1,12 @@
 {
-    "id": 1,
-    "name": "stereo madness",
-    "author": "RobTop",
-    "creators": ["RobTop"],
-    "verifier": "Shotgunnr",
-    "verification": "https://youtu.be/BLZjHKQcwvE?si=jrqfA9jtpNFDVhk5",
+    "id": 134896677,
+    "name": "Laying Out",
+    "author": "Eagle",
+    "creators": ["Eagle"],
+    "verifier": "Eagle",
+    "verification": "https://youtu.be/vy-wxPNS_ds",
     "percentToQualify": "100",
-    "password": "Unknown",
+    "password": "free to capy",
     "records": [
-        {
-            "user": "LimyLake",
-            "link": "https://www.youtube.com/watch?v=mRhuZTZ3PiM",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Eagle",
-            "link": "no need",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
