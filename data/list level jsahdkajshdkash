@@ -1,1 +1,24 @@
-
+{
+    "id": 6,
+    "name": "cool l3213evel",
+    "author": "idksad",
+    "creators": ["cool the masdark"],
+    "verifier": "amhyst",
+    "verification": "https://your.mom.com",
+    "percentToQualify": "100",
+    "password": "free to capy",
+    "records": [
+{
+           "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+},
+{
+           "user": "Sample_Vtor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 10,
+            "hz": 36
+}
+    ]
+}
