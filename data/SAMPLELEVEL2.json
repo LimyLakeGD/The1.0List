@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "free to capy",
     "records": [
+        {
+            "user": "LimyLake",
+            "link": "https://youtu.be/meSxzQ4_hg8",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
